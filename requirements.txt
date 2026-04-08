@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+pillow
+numpy
+googletrans==4.0.0-rc1
+transformers
+torch
+streamlit>=1.32.0
+numpy>=1.24.0
+tensorflow>=2.13.0
+gTTS>=2.5.0
+requests>=2.31.0
